@@ -2,7 +2,7 @@
 
 Does this work!
 
-{{TOC}}
+{:toc}
 
 # Introduction
 
